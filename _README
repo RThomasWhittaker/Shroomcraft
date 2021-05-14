@@ -1,0 +1,10 @@
+IP is in ip.txt
+
+When saving, in console type:
+    save-all
+    stop
+
+When starting:
+    Green "Run" button in the top center
+    OR in console type:
+        bash main.sh
