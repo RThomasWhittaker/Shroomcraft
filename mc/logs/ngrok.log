@@ -1,11 +1,11 @@
-t=2021-05-14T03:09:25+0000 lvl=info msg="no configuration paths supplied"
-t=2021-05-14T03:09:25+0000 lvl=info msg="using configuration at default config path" path=/home/runner/.ngrok2/ngrok.yml
-t=2021-05-14T03:09:25+0000 lvl=info msg="open config file" path=/home/runner/.ngrok2/ngrok.yml err=nil
-t=2021-05-14T03:09:25+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
-t=2021-05-14T03:09:25+0000 lvl=info msg="tunnel session started" obj=tunnels.session
-t=2021-05-14T03:09:25+0000 lvl=info msg="client session established" obj=csess id=c20eb1206249
-t=2021-05-14T03:09:26+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:1025 url=tcp://8.tcp.ngrok.io:13025
-t=2021-05-14T03:09:26+0000 lvl=info msg=start pg=/api/tunnels id=2edc592d64b26048
-t=2021-05-14T03:09:26+0000 lvl=info msg=end pg=/api/tunnels id=2edc592d64b26048 status=200 dur=1.891378ms
-t=2021-05-14T03:09:26+0000 lvl=info msg="update available" obj=updater
-t=2021-05-14T03:09:48+0000 lvl=info msg="join connections" obj=join id=e715e24c4413 l=127.0.0.1:1025 r=96.44.73.13:20242
+t=2021-05-31T02:49:17+0000 lvl=info msg="no configuration paths supplied"
+t=2021-05-31T02:49:17+0000 lvl=info msg="using configuration at default config path" path=/home/runner/.ngrok2/ngrok.yml
+t=2021-05-31T02:49:17+0000 lvl=info msg="open config file" path=/home/runner/.ngrok2/ngrok.yml err=nil
+t=2021-05-31T02:49:17+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2021-05-31T02:49:18+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2021-05-31T02:49:18+0000 lvl=info msg="client session established" obj=csess id=5fbcba95b5c5
+t=2021-05-31T02:49:18+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:1025 url=tcp://0.tcp.ngrok.io:18141
+t=2021-05-31T02:49:18+0000 lvl=info msg=start pg=/api/tunnels id=5862018bb63bdb78
+t=2021-05-31T02:49:18+0000 lvl=info msg=end pg=/api/tunnels id=5862018bb63bdb78 status=200 dur=1.07019ms
+t=2021-05-31T02:49:18+0000 lvl=info msg="update available" obj=updater
+t=2021-05-31T02:49:22+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
